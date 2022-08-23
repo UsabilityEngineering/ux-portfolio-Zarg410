@@ -1,4 +1,4 @@
-# UX Portfolio
+# Zane Gabor's UX Portfolio
 
 
 ## UX Team Project
