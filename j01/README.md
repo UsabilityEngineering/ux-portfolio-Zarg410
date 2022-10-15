@@ -1,1 +1,10 @@
-# First Journal Entry...
+# The Strange intricacies of my Air Conditioner
+Written by: Zane Gabor on 10/14/2022
+
+
+  Ever since I moved into this apartment the air conditioner here has perplexed me. It’s not the most difficult device to figure out, but it does do a few things that seem counterintuitive upon first observation. We’ll start with the power button, located at the bottom right of the control panel. At a glance, the timer button, located at the top middle of the control panel, has a very similar design to the power button, both being a circle with a line floating somewhere in space. On a few occasions when trying to operate it with my foot I have hit the wrong button when trying to deactivate the AC when leaving for a weekend. 
+
+  There are two multi toggle buttons labeled Mode and Fan that don’t seem to do much. For Mode, auto and cool seem to do the same thing: at automated intervals the fan will kick on followed shortly by the actual cooling turning on, then after the set temp (or it’s best approximation) is reached it runs the fan for a while and then turns off until the temp is unbalanced enough to trigger the process. I don’t know what dry does, but the fan just runs the fan every so often. The other  toggle labeled Fan had no tangible difference when altered, the unit sounded the same no matter what it was set to. The temperature buttons are the only buttons that did what I thought they were going to do on first use. They, as advertised, adjust the temperature the unit tries to achieve when cooling. 
+
+  What always confused me the most about my AC was the fact that even when no cooling is occurring, the unit feels the need to turn on the fan every so often. I assume this is the unit trying to bring fresh air into the apartment at regular intervals, but I won’t know for sure unless I look it up online. There is also no obvious way to stop the unit from doing this aside from turning it off outright. While not the most straightforward to use, this AC does what I need it to for the most part. The fact that it has trouble cooling my apartment is not its own fault, but more a fault in the design in the apartment itself. It lacks the power to cool the whole space it is supposed to and is hindered by the poor design of the space it's in. All and all it did what I wanted it to, just not as well as I wanted it to do it. 
+
